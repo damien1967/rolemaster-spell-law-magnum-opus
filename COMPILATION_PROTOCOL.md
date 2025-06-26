@@ -1,72 +1,61 @@
+# COMPILATION_PROTOCOL.md
 
-# Compilation Protocol: Rolemaster Spell Law Magnum Opus
-
-## Purpose
-
-This document outlines how the *Rolemaster Spell Law Magnum Opus* is compiled, detailing the source material hierarchy, fidelity protocols, and editorial standards. This ensures the work is authoritative, transparent, and consistent with the original design philosophy of Rolemaster.
+## 🎯 Purpose
+This document outlines the principles and editorial standards used to compile the Magnum Opus edition of Rolemaster Spell Law. It ensures consistency, fidelity to source material, and a unified presentation of spell-using character classes and their associated spell lists.
 
 ---
 
-## 📘 Canon Source Hierarchy
+## ✅ Canonical Source Hierarchy
 
-The Magnum Opus adheres to the following authoritative hierarchy for spell list sourcing:
+Spells and base lists are compiled strictly from the following official ICE publications, in this hierarchy of authority:
 
-1. **Spell Law, 1st Edition (ICE #1200, 1981)**  
-   The original and primary source for all base, open, and closed spell lists. This version defines the canonical order, spell names, and structure for all spell-using professions.
+1. **Spell Law 1st Edition (ICE #1200)** — Primary and definitive source
+2. **Rolemaster Companions I–VI** — For all additional classes and expanded base lists
+3. **Arcane Companion**
+4. **Mentalism Companion**
+5. **Alchemy Companion**
 
-2. **Spell Law, 2nd Edition**  
-   Used *only when* the 1st Edition is silent, ambiguous, or lacks detail. Never supersedes the 1st Edition.
-
-3. **Rolemaster Companions I–VI**  
-   Supplemental source for additional classes, esoteric spell lists, and optional systems. Used to add content, never to revise core canon.
-
-4. **RMSS, RMFRP, and Companion Supplements (Arcane, Mentalism, Alchemy, etc.)**  
-   Included for optional systems and alternate class mechanics. Clearly separated in dedicated sections (e.g., "Esoteric Spell Laws").
+Other ICE publications may be referenced for clarification but will not supersede the above hierarchy.
 
 ---
 
-## 🛡️ Fidelity Protocol
+## 📚 Fidelity Protocol
 
-The following principles guide all editorial and formatting work:
-
-- **Canonical Alignment:** Every spell list is verified directly against ICE #1200. Any differences from later versions are reconciled to match 1st Edition canon.
-
-- **Clarification Without Alteration:** Spell ranges, durations, areas of effect, and RR types are clarified in modern, readable terms without changing mechanical effect.
-
-- **No Cross-Referencing:** Every spell is written out in full. No spell will ever refer to “see spell X on list Y.”
-
-- **Structured Presentation:** All spell lists are presented in table format followed by full write-ups. Profession sections include base lists, then open and closed lists, per realm.
+- **No House Rules** — All spells and class mechanics must be drawn directly from source material.
+- **No References to Other Lists** — Every spell must be fully described without requiring lookup on other lists.
+- **Original Spell Texts** — Spell names, levels, durations, ranges, and descriptions must be precisely transcribed.
+- **Clarifications Only** — When multiple editions contradict, clarifications must follow Spell Law 1E unless unreasonable.
 
 ---
 
-## 🧾 Profession Inclusion Rule
+## 🧙‍♂️ Inclusion Criteria
 
-Only professions that were introduced with:
-- Fully defined base spell lists, **or**
-- A clearly stated and official method of selecting base lists
+The following types of character classes are included in the Magnum Opus:
 
-...are included in the Magnum Opus.
+### ✅ Included
+- **Pure Spell Users** — Classes that derive their entire magical capability from a single realm (e.g. Cleric, Magician, Mentalist).
+- **Semi Spell Users** — Martial/magical classes with dedicated base lists (e.g. Monk, Ranger, Paladin).
+- **Hybrid Spell Users** — Classes that span two realms and have unique base lists (e.g. Sorcerer, Warrior Mage, Dabbler).
+- **Arcane Classes** — Treated as a distinct realm where applicable (e.g. Arcanist).
 
-Professions mentioned in name only or without defined list structure are excluded to maintain clarity, usability, and canonical fidelity.
-
----
-
-## 🔖 Certification Statement
-
-Each spell list included in this work carries the following certification:
-
-> *“This material is canonically aligned with Spell Law (1st Edition), ICE #1200. Deviations are noted and footnoted only where necessary.”*
-
-This certification ensures that readers, players, and Loremasters can trust the integrity and origin of the content presented.
+### ❌ Excluded
+- Non-spell-using martial classes
+- Optionally magical classes with no fixed or required base lists
+- Custom template or "kit" classes lacking defined spellcasting identity
+- Any unofficial or fan-made content, including third-party publications
 
 ---
 
-## 🧾 Documentation and Attribution
+## 🔐 Certification Tags
 
-This is a scholarly, fan-driven archival project. All original spell mechanics, names, and game terms are the intellectual property of Iron Crown Enterprises (ICE). No commercial use is intended or permitted.
-
-Formatting, compilation, and editorial clarification are the contributions of the Magnum Opus compiler(s), shared for non-commercial use with attribution.
+Every spell list entry will be marked with:
+- 📘 Source (e.g. "Spell Law 1E", "RMC II")
+- ✅ Fidelity Verified (manually checked against print or scanned edition)
+- 🔁 Version Control (if the list has variants or Companion expansions)
 
 ---
 
-*Let the canon be preserved, the mysteries clarified, and the power of Spell Law made clear to all who seek it.*
+## 🔄 Living Protocol
+
+This document will be updated as the Magnum Opus evolves. Every change must preserve the principles of transparency, accuracy, and respect for ICE's original systems.
+

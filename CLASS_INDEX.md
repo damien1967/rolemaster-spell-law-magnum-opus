@@ -1,78 +1,54 @@
+# CLASS_INDEX.md
 
-# CLASS_INDEX.md — Spell-Using Professions in Rolemaster
+A definitive alphabetical listing of all spell-using character classes—pure, semi, and hybrid—with their associated realm and original ICE source.
 
-This file is a canonical registry of all spell-using character classes included in the Magnum Opus of Spell Law. Each entry includes the profession name, realm(s), and its original source of publication.
-
----
-
-## 📘 Legend
-- **Realm(s):** E = Essence, C = Channeling, M = Mentalism, H = Hybrid, A = Arcane, P = Psionic, O = Other (Esoteric)
-- **Status:** ☐ = To be compiled, ☑ = Completed in Magnum Opus
-
----
-
-## 🔮 Core Spell Law (ICE #1200)
-
-| Profession   | Realm(s) | Source                        | Page | Status |
-|--------------|----------|-------------------------------|------|--------|
-| Alchemist    | E        | Spell Law 1E (ICE #1200)      | TBD  | ☐ |
-| Animist      | C        | Spell Law 1E (ICE #1200)      | p.50 | ☐ |
-| Druid        | C        | Spell Law 1E (ICE #1200)      | p.51 | ☐ |
-| Healer       | C        | Spell Law 1E (ICE #1200)      | p.52 | ☐ |
-| Ranger       | C        | Spell Law 1E (ICE #1200)      | p.54 | ☐ |
-| Illusionist  | E        | Spell Law 1E (ICE #1200)      | p.57 | ☐ |
-| Magician     | E        | Spell Law 1E (ICE #1200)      | p.58 | ☐ |
-| Sorcerer     | E        | Spell Law 1E (ICE #1200)      | p.60 | ☐ |
-| Astrologer   | M        | Spell Law 1E (ICE #1200)      | p.63 | ☐ |
-| Lay Healer   | M        | Spell Law 1E (ICE #1200)      | p.64 | ☐ |
-| Mentalist    | M        | Spell Law 1E (ICE #1200)      | p.65 | ☐ |
-| Mystic       | M        | Spell Law 1E (ICE #1200)      | p.67 | ☐ |
-| Seer         | M        | Spell Law 1E (ICE #1200)      | p.69 | ☐ |
-| Evil Cleric  | C        | Spell Law 1E (ICE #1200)      | TBD  | ☐ |
-| Evil Mage    | E        | Spell Law 1E (ICE #1200)      | TBD  | ☐ |
-
----
-
-## 📘 Rolemaster Companions
-
-| Profession     | Realm(s) | Source                | Page | Status |
-|----------------|----------|-----------------------|------|--------|
-| Paladin        | C        | RMC I                 | TBD  | ☐ |
-| Warrior Priest | C        | RMC IV                | TBD  | ☐ |
-| Beastmaster    | C        | RMC II                | TBD  | ☐ |
-| Shaman         | C        | RMC III               | TBD  | ☐ |
-| Houri          | C        | RMC II                | TBD  | ☐ |
-| Witch          | C        | RMC V                 | TBD  | ☐ |
-| Chaos Lord     | C        | RMC VI                | TBD  | ☐ |
-| Nightblade     | E        | RMC II                | TBD  | ☐ |
-| Warrior Mage   | E        | RMC II                | TBD  | ☐ |
-| Elementalist   | E        | RMC VI                | TBD  | ☐ |
-| Shadow Mage    | E        | Shadow World          | TBD  | ☐ |
-| Dabbler        | E        | RMC III               | TBD  | ☐ |
-| Warlock        | E        | RMC IV                | TBD  | ☐ |
-| Conjuror       | E        | RMC VI                | TBD  | ☐ |
-| Magent         | E        | RMC IV                | TBD  | ☐ |
-| Delver         | M        | RMC IV                | TBD  | ☐ |
-| Monk           | M        | RMC III               | TBD  | ☐ |
-| Oracle         | M        | RMC VI                | TBD  | ☐ |
-| Dream Lord     | M        | RMC V                 | TBD  | ☐ |
-| Sage           | M        | RMC VI                | TBD  | ☐ |
-
----
-
-## 📘 Arcane, Mentalism, and Other Companions
-
-| Profession   | Realm(s) | Source             | Page | Status |
-|--------------|----------|--------------------|------|--------|
-| Arcanist     | A        | Arcane Companion   | TBD  | ☐ |
-| Archmage     | A        | Arcane Companion   | TBD  | ☐ |
-| Psionicist   | P        | Mentalism Companion| TBD  | ☐ |
-
----
-
-## 📚 Esoteric Systems (Non-spellcasting, Ritual-based)
-
-| Profession         | Realm(s) | Source             | Page | Notes |
-|--------------------|----------|--------------------|------|-------|
-| Alchemist (ritual) | O        | Alchemy Companion  | TBD  | Ritual crafting only |
-
+|   Unnamed: 0 | Class Name     | Realm                         | Source                     |   Unnamed: 4 |
+|-------------:|:---------------|:------------------------------|:---------------------------|-------------:|
+|          nan | :------------- | :---------------------------- | :------------------------- |          nan |
+|          nan | Alchemist      | Essence                       | Spell Law 1E               |          nan |
+|          nan | Animist        | Channeling                    | Spell Law 1E               |          nan |
+|          nan | Arcanist       | Arcane                        | Arcane Companion           |          nan |
+|          nan | Arcist         | Essence                       | Rolemaster Companion IV    |          nan |
+|          nan | Astrologer     | Mentalism                     | Rolemaster Companion I     |          nan |
+|          nan | Bard           | Mentalism                     | Spell Law 1E               |          nan |
+|          nan | Battlemage     | Hybrid (Essence/Channeling)   | Rolemaster Companion VI    |          nan |
+|          nan | Beastmaster    | Channeling                    | Rolemaster Companion II    |          nan |
+|          nan | Cleric         | Channeling                    | Spell Law 1E               |          nan |
+|          nan | Conjurer       | Essence                       | Rolemaster Companion II    |          nan |
+|          nan | Dabbler        | Hybrid (Essence/Mentalism)    | Rolemaster Companion III   |          nan |
+|          nan | Delver         | Mentalism                     | Rolemaster Companion III   |          nan |
+|          nan | Dream Lord     | Mentalism                     | Rolemaster Companion IV    |          nan |
+|          nan | Druid          | Channeling                    | Spell Law 1E               |          nan |
+|          nan | Elementalist   | Essence                       | Rolemaster Companion V     |          nan |
+|          nan | Enchanter      | Essence                       | Rolemaster Companion I     |          nan |
+|          nan | Evil Cleric    | Channeling                    | Spell Law 1E               |          nan |
+|          nan | Evil Mage      | Essence                       | Spell Law 1E               |          nan |
+|          nan | Geomancer      | Essence                       | Rolemaster Companion IV    |          nan |
+|          nan | Healer         | Mentalism                     | Rolemaster Companion V     |          nan |
+|          nan | Illusionist    | Essence                       | Spell Law 1E               |          nan |
+|          nan | Lay Healer     | Mentalism                     | Spell Law 1E               |          nan |
+|          nan | Loremaster     | Channeling                    | Rolemaster Companion IV    |          nan |
+|          nan | Magent         | Essence                       | Rolemaster Companion IV    |          nan |
+|          nan | Magician       | Essence                       | Spell Law 1E               |          nan |
+|          nan | Mentalist      | Mentalism                     | Spell Law 1E               |          nan |
+|          nan | Monk           | Essence                       | Spell Law 1E               |          nan |
+|          nan | Moon Mage      | Mentalism                     | Rolemaster Companion IV    |          nan |
+|          nan | Mystic         | Mentalism                     | Spell Law 1E               |          nan |
+|          nan | Necromancer    | Essence                       | Rolemaster Companion II    |          nan |
+|          nan | Nightblade     | Hybrid (Essence/Channeling)   | Rolemaster Companion II    |          nan |
+|          nan | Paladin        | Channeling                    | Rolemaster Companion I     |          nan |
+|          nan | Ranger         | Hybrid (Essence/Channeling)   | Spell Law 1E               |          nan |
+|          nan | Runemaster     | Essence                       | Rolemaster Companion III   |          nan |
+|          nan | Sage           | Mentalism                     | Rolemaster Companion I     |          nan |
+|          nan | Seer           | Mentalism                     | Spell Law 1E               |          nan |
+|          nan | Shadow Mage    | Hybrid (Essence/Channeling)   | Rolemaster Companion VI    |          nan |
+|          nan | Shadowblade    | Hybrid (Essence/Channeling)   | Rolemaster Companion VI    |          nan |
+|          nan | Shaman         | Channeling                    | Rolemaster Companion II    |          nan |
+|          nan | Sorcerer       | Hybrid (Essence/Channeling)   | Spell Law 1E               |          nan |
+|          nan | Spellmaster    | Essence                       | Rolemaster Companion VI    |          nan |
+|          nan | Spellsinger    | Mentalism                     | Rolemaster Companion VI    |          nan |
+|          nan | Warder         | Hybrid (Channeling/Mentalism) | Rolemaster Companion VI    |          nan |
+|          nan | Warlock        | Essence                       | Rolemaster Companion II    |          nan |
+|          nan | Warrior Mage   | Hybrid (Essence/Channeling)   | Rolemaster Companion II    |          nan |
+|          nan | Witch          | Channeling                    | Rolemaster Companion IV    |          nan |
+|          nan | Wizard         | Essence                       | Spell Law 1E               |          nan |
